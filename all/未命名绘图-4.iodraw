@@ -760,11 +760,11 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-15" value="Three.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-883" y="220.5" width="72" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="2MlH4FgkOYWXTrazGdKA-17" value="Three.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-17" value="WebGl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-786" y="220.5" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-18" value="Three.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-797" y="311" width="72" height="34" as="geometry" />
+          <mxGeometry x="-593" y="221" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-19" value="Three.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-690" y="220.5" width="72" height="34" as="geometry" />
