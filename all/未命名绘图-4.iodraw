@@ -728,7 +728,7 @@
           <mxGeometry x="-1059" y="136.5" width="86" height="167.5" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-4" value="访问层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1059" y="311" width="86" height="59" as="geometry" />
+          <mxGeometry x="-1061" y="368.5" width="86" height="59" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D1FFE5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-948" y="60" width="484" height="60" as="geometry" />
@@ -763,7 +763,7 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-17" value="WebGl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-786" y="220.5" width="72" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="2MlH4FgkOYWXTrazGdKA-18" value="Three.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-18" value="Echarts.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-593" y="221" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-19" value="GASP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
