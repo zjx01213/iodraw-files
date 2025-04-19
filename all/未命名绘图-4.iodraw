@@ -784,7 +784,7 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-814" y="374" width="344.42" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="2MlH4FgkOYWXTrazGdKA-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-29" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-952" y="374" width="121" height="55" as="geometry" />
         </mxCell>
       </root>
