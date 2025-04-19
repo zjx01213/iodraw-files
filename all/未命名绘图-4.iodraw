@@ -790,8 +790,8 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-30" value="基于Restful接口：HTTP/HTTPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-806" y="381.5" width="194" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="2MlH4FgkOYWXTrazGdKA-32" value="基于Restful接口：HTTP/HTTPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-796" y="391.5" width="194" height="39" as="geometry" />
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-32" value="Socket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="382" width="119" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
