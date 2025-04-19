@@ -731,7 +731,7 @@
           <mxGeometry x="-1061" y="368.5" width="86" height="207.5" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="-951" y="139" width="489" height="219" as="geometry" />
+          <mxGeometry x="-954" y="139" width="492" height="219" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-934" y="151" width="462" height="114" as="geometry" />
@@ -760,7 +760,7 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-18" value="Echarts.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-593" y="221" width="72" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="2MlH4FgkOYWXTrazGdKA-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ABFFCF;" vertex="1" parent="1">
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C7FFEA;" vertex="1" parent="1">
           <mxGeometry x="-954.17" y="64" width="489" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-19" value="GASP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
