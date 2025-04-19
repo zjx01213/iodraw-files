@@ -779,7 +779,7 @@
           <mxGeometry x="-956" y="473" width="489" height="203" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-26" value="通讯层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="-1059" y="368" width="85" height="91" as="geometry" />
+          <mxGeometry x="-1059" y="368" width="85" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
