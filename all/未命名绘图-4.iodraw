@@ -763,6 +763,9 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-18" value="Echarts.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-593" y="221" width="72" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-951" y="95" width="489" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-19" value="GASP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-690" y="220.5" width="72" height="34" as="geometry" />
         </mxCell>
@@ -771,9 +774,6 @@
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-21" value="Windows桌面应用程序：IE，edge，chorme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-893.5" y="289.25" width="381" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="2MlH4FgkOYWXTrazGdKA-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-951" y="59" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
