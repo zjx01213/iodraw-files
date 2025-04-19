@@ -775,6 +775,9 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-21" value="Windows桌面应用程序：IE，edge，chorme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-893.5" y="289.25" width="381" height="37.5" as="geometry" />
         </mxCell>
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-948" y="379" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
