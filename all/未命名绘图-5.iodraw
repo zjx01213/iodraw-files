@@ -794,7 +794,13 @@
           <mxGeometry x="-600" y="382" width="119" height="39" as="geometry" />
         </mxCell>
         <mxCell id="vDhUZlgOT6P5MBBW--5G-1" value="古代物理数据查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-938" y="467" width="92" height="35" as="geometry" />
+          <mxGeometry x="-938" y="467" width="83" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vDhUZlgOT6P5MBBW--5G-2" value="古代物理数据查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-837" y="472" width="83" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vDhUZlgOT6P5MBBW--5G-3" value="古代物理数据查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-715" y="470" width="83" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
