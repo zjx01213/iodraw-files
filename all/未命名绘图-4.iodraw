@@ -722,7 +722,7 @@
           <mxGeometry x="-1067" y="21" width="634" height="754" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-2" value="访问层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1059" y="60" width="86" height="59" as="geometry" />
+          <mxGeometry x="-1059" y="60" width="86" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-3" value="前端UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1059" y="136.5" width="86" height="107.5" as="geometry" />
@@ -734,7 +734,7 @@
           <mxGeometry x="-1059" y="311" width="86" height="59" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-948" y="60" width="120" height="57" as="geometry" />
+          <mxGeometry x="-948" y="60" width="120" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
