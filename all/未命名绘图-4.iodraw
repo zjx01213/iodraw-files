@@ -745,6 +745,21 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-10" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-927" y="164.5" width="72" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-11" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-917" y="174.5" width="72" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-12" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-907" y="184.5" width="72" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-13" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-876" y="234" width="72" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-14" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-873" y="254.5" width="72" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-15" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-873" y="301" width="72" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
