@@ -748,14 +748,14 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-11" value="CSS3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-834" y="165" width="72" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="2MlH4FgkOYWXTrazGdKA-12" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-12" value="JavaScript" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-736" y="165" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-13" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-876" y="234" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-14" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-873" y="254.5" width="72" height="34" as="geometry" />
+          <mxGeometry x="-639" y="164.5" width="72" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-15" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-873" y="301" width="72" height="34" as="geometry" />
