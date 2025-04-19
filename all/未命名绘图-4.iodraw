@@ -757,7 +757,7 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-14" value="ElementUI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-653" y="165" width="72" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="2MlH4FgkOYWXTrazGdKA-15" value="HTML5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-15" value="Three.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-883" y="220.5" width="72" height="34" as="geometry" />
         </mxCell>
       </root>
