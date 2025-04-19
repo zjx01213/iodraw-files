@@ -719,7 +719,7 @@
           <mxGeometry x="1830" y="1418" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1076" y="21" width="634" height="754" as="geometry" />
+          <mxGeometry x="-1067" y="21" width="634" height="754" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-2" value="访问层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ABFFCD;" vertex="1" parent="1">
           <mxGeometry x="-1059" y="60" width="86" height="60" as="geometry" />
@@ -727,8 +727,8 @@
         <mxCell id="2MlH4FgkOYWXTrazGdKA-3" value="前端UI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-1059" y="136.5" width="86" height="221.5" as="geometry" />
         </mxCell>
-        <mxCell id="2MlH4FgkOYWXTrazGdKA-4" value="访问层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1063" y="368.5" width="86" height="59" as="geometry" />
+        <mxCell id="2MlH4FgkOYWXTrazGdKA-4" value="业务层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1061" y="368.5" width="86" height="59" as="geometry" />
         </mxCell>
         <mxCell id="2MlH4FgkOYWXTrazGdKA-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D1FFE5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-948" y="60" width="484" height="60" as="geometry" />
