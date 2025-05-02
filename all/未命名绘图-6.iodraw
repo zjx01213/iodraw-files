@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="1798" dy="475" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2952" dy="1347" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,15 +370,11 @@
         <mxCell id="_8326YEtr7_QoKqkS0Jp-100" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="806" y="568" width="79" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="_8326YEtr7_QoKqkS0Jp-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="_8326YEtr7_QoKqkS0Jp-111" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1397.5" y="45" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="_8326YEtr7_QoKqkS0Jp-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_8326YEtr7_QoKqkS0Jp-109" target="_8326YEtr7_QoKqkS0Jp-111" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_8326YEtr7_QoKqkS0Jp-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="_8326YEtr7_QoKqkS0Jp-110" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1440.4999999999995" y="45" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="_8326YEtr7_QoKqkS0Jp-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_8326YEtr7_QoKqkS0Jp-109" target="_8326YEtr7_QoKqkS0Jp-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_8326YEtr7_QoKqkS0Jp-109" value="娱乐模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1364" y="9" width="86" height="36" as="geometry" />
@@ -390,7 +386,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_8326YEtr7_QoKqkS0Jp-110" value="游戏模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1493" y="86" width="86" height="36" as="geometry" />
+          <mxGeometry x="1481" y="86" width="86" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_8326YEtr7_QoKqkS0Jp-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_8326YEtr7_QoKqkS0Jp-111" target="_8326YEtr7_QoKqkS0Jp-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -399,19 +395,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_8326YEtr7_QoKqkS0Jp-111" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1263" y="86" width="86" height="36" as="geometry" />
+          <mxGeometry x="1251" y="86" width="86" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_8326YEtr7_QoKqkS0Jp-112" value="前端框架展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1263" y="172.5" width="29" height="82" as="geometry" />
+          <mxGeometry x="1251" y="172.5" width="29" height="82" as="geometry" />
         </mxCell>
         <mxCell id="_8326YEtr7_QoKqkS0Jp-113" value="接入模型接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="172.5" width="29" height="82.5" as="geometry" />
+          <mxGeometry x="1308" y="172.5" width="29" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="_8326YEtr7_QoKqkS0Jp-114" value="拼合古建游戏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1493" y="172.5" width="27" height="82.5" as="geometry" />
+          <mxGeometry x="1481" y="172.5" width="27" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="_8326YEtr7_QoKqkS0Jp-122" value="知识问答游戏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1552" y="172.5" width="27" height="82.5" as="geometry" />
+          <mxGeometry x="1540" y="172.5" width="27" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="_8326YEtr7_QoKqkS0Jp-127" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1877" y="10.5" width="308" height="332" as="geometry" />
