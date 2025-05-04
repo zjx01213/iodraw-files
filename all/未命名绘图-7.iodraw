@@ -808,8 +808,8 @@
         <mxCell id="JV8KIATmSgzqzczyZ8uw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1210" width="668" height="345" as="geometry" />
         </mxCell>
-        <mxCell id="JV8KIATmSgzqzczyZ8uw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="1343" width="170" height="45" as="geometry" />
+        <mxCell id="JV8KIATmSgzqzczyZ8uw-2" value="代表字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="1343" width="224" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JV8KIATmSgzqzczyZ8uw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="778" y="1343" width="233" height="45" as="geometry" />
