@@ -812,7 +812,7 @@
           <mxGeometry x="409" y="1343" width="224" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JV8KIATmSgzqzczyZ8uw-3" value="字段的值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="778" y="1343" width="233" height="45" as="geometry" />
+          <mxGeometry x="753" y="1343" width="233" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
