@@ -8,10 +8,10 @@
           <mxGeometry x="-6" y="209" width="102" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="NQwY3s2Qns443cm_A0cX-3" value="&lt;div style=&quot;text-align: start; line-height: 100%;&quot;&gt;&lt;font face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 7px; background-color: rgb(255, 255, 255);&quot;&gt;AutoRegressive&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="154" y="101" width="53" height="14" as="geometry" />
+          <mxGeometry x="163" y="88" width="53" height="14" as="geometry" />
         </mxCell>
         <mxCell id="NQwY3s2Qns443cm_A0cX-4" value="&lt;div style=&quot;text-align: start; line-height: 100%;&quot;&gt;&lt;font face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 7px; background-color: rgb(255, 255, 255);&quot;&gt;Difussion&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="154" y="140" width="53" height="14" as="geometry" />
+          <mxGeometry x="163" y="140" width="53" height="14" as="geometry" />
         </mxCell>
         <mxCell id="NQwY3s2Qns443cm_A0cX-5" value="&lt;div style=&quot;text-align: start; line-height: 100%;&quot;&gt;&lt;font face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Hybrid Arch&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="154" y="177" width="53" height="14" as="geometry" />
