@@ -94,13 +94,19 @@
             <mxPoint x="203" y="46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NQwY3s2Qns443cm_A0cX-32" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endSize=16;" edge="1" parent="1">
+        <mxCell id="NQwY3s2Qns443cm_A0cX-32" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="209" y="38.5" as="sourcePoint" />
             <mxPoint x="203" y="46" as="targetPoint" />
             <Array as="points">
               <mxPoint x="203" y="39" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQwY3s2Qns443cm_A0cX-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=0.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="127" y="108" as="sourcePoint" />
+            <mxPoint x="153" y="108" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
