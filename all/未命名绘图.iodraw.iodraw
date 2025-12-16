@@ -88,10 +88,10 @@
         <mxCell id="NQwY3s2Qns443cm_A0cX-29" value="&lt;p style=&quot;line-height: 100%; margin-top: 9px; font-size: 6px;&quot;&gt;&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; line-height: 28px; overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Transformer Autoregressive Component in Hybrid&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="213" y="56" width="145" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="NQwY3s2Qns443cm_A0cX-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=0.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="NQwY3s2Qns443cm_A0cX-30" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="127" y="108" as="sourcePoint" />
-            <mxPoint x="153" y="108" as="targetPoint" />
+            <mxPoint x="202" y="46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
