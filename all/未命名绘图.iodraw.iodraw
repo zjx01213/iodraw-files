@@ -83,7 +83,7 @@
           <mxGeometry x="216" y="8" width="53" height="14" as="geometry" />
         </mxCell>
         <mxCell id="NQwY3s2Qns443cm_A0cX-27" value="&lt;p style=&quot;line-height: 100%; margin-top: 9px; font-size: 6px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Vision-Only Transformer Autoregressive&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="218" y="53" width="122" height="16" as="geometry" />
+          <mxGeometry x="216" y="39" width="122" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
