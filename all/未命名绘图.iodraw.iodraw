@@ -19,8 +19,8 @@
         <mxCell id="NQwY3s2Qns443cm_A0cX-6" value="&lt;font face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;DataSet&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="231" width="53" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="NQwY3s2Qns443cm_A0cX-7" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: NimbusRomNo9L-Medi; font-size: 6px;&quot;&gt;Taxonomy&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="72" y="140" width="53" height="14" as="geometry" />
+        <mxCell id="NQwY3s2Qns443cm_A0cX-7" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: NimbusRomNo9L-Medi; font-size: 6px;&quot;&gt;Taxonomy&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.1;rotation=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="72" y="108" width="53" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
