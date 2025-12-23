@@ -4,7 +4,7 @@
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="wEX7dDGUqPdYkS-GIDB--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wEX7dDGUqPdYkS-GIDB--2" target="wEX7dDGUqPdYkS-GIDB--3">
+        <mxCell id="wEX7dDGUqPdYkS-GIDB--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="wEX7dDGUqPdYkS-GIDB--2" target="wEX7dDGUqPdYkS-GIDB--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wEX7dDGUqPdYkS-GIDB--2" value="&lt;span style=&quot;font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 7px; text-align: start;&quot;&gt;Game-Oriented World Model&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
