@@ -4,8 +4,11 @@
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="wEX7dDGUqPdYkS-GIDB--2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wEX7dDGUqPdYkS-GIDB--2" value="&lt;span style=&quot;font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 7px; text-align: start;&quot;&gt;Game-Oriented World Model&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-535" y="-236" width="78" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="wEX7dDGUqPdYkS-GIDB--3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-393" y="-296" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
