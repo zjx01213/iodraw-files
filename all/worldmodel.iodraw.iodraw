@@ -122,6 +122,9 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-26" value="自回归Transformer的序列建模（RLVR-World，IRIS）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="502" y="129" width="142" height="17.34" as="geometry" />
         </mxCell>
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-27" target="OVBxQa8PjKTIBKTiRORm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
