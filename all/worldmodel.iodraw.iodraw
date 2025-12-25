@@ -123,7 +123,7 @@
           <mxGeometry x="457" y="81" width="136" height="19" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-18" value="紧凑潜状态空间（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="501.3653361002605" y="105.6580594380697" width="93" height="40" as="geometry" />
+          <mxGeometry x="475" y="100" width="86.63" height="17.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
