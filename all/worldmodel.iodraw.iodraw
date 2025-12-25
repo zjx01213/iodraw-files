@@ -164,20 +164,20 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-28" target="OVBxQa8PjKTIBKTiRORm-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-50" value="动作Token化与交错输入（MineWorld）" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="519" y="121" width="112" height="19" as="geometry" />
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-50" value="图像Token化压缩 + 并行解码（MineWorld）" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="498" y="206" width="135" height="19" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-51" value="紧凑潜状态空间（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="520" y="135.66" width="79" height="17.34" as="geometry" />
+          <mxGeometry x="510" y="220.66" width="79" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-52" value="自然语言动作条件（PAN）" style="text;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="520" y="151.66" width="90" height="17.34" as="geometry" />
+          <mxGeometry x="510" y="236.66" width="90" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-53" value="模态统一Token化（RLVR-World）" style="text;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="520" y="169" width="142" height="17.34" as="geometry" />
+          <mxGeometry x="510" y="254" width="142" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-54" value="模态统一Token化（IRIS）" style="text;fontSize=6;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="520" y="186.66" width="142" height="17.34" as="geometry" />
+          <mxGeometry x="510" y="271.65999999999997" width="142" height="17.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
