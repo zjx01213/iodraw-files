@@ -123,7 +123,7 @@
           <mxGeometry x="457" y="81" width="136" height="19" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-18" value="&lt;strong style=&quot;forced-color-adjust: none; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: 600;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 6px;&quot;&gt;紧凑潜状态空间（Dreamer）&lt;/span&gt;&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="501.3653361002605" y="105.6580594380697" width="93" height="40" as="geometry" />
+          <mxGeometry x="501.37" y="105.66" width="66.63" height="8.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
