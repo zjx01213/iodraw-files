@@ -143,7 +143,7 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-40" value="自然语言动作条件（PAN）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="509" y="180.66" width="90" height="17.34" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-41" value="自回归Transformer的序列建模（RLVR-World，IRIS）" style="text;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-41" value="模态统一Token化（RLVR-World，IRIS）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="509" y="198" width="142" height="17.34" as="geometry" />
         </mxCell>
       </root>
