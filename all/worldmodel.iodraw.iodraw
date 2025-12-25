@@ -173,7 +173,7 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-52" value="自然语言动作条件（PAN）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="508" y="233.66" width="90" height="17.34" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-53" value="模态统一Token化（RLVR-World）" style="text;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-53" value="Token化压缩（RLVR-World）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="508" y="251" width="142" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-54" value="离散自编码器(VQ-VAE)（IRIS）" style="text;fontSize=6;fontStyle=0" vertex="1" parent="1">
