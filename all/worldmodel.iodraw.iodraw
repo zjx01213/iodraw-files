@@ -194,7 +194,7 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-29" target="OVBxQa8PjKTIBKTiRORm-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-63" value="潜空间想象（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-63" value="集成奖励模型（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="508" y="296" width="79" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-64" value="潜变量预测+视频扩散解码（PAN）" style="text;fontSize=6;" vertex="1" parent="1">
