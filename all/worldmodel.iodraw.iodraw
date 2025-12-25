@@ -167,7 +167,7 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-50" value="图像Token化压缩 + 并行解码（MineWorld）" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="509" y="201.66" width="119" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-51" value="紧凑潜状态空间（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-51" value="潜空间想象（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="508" y="217.66" width="79" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-52" value="自然语言动作条件（PAN）" style="text;fontSize=6;" vertex="1" parent="1">
