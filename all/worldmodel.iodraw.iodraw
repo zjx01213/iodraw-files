@@ -146,6 +146,12 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-41" value="模态统一Token化（RLVR-World）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="509" y="198" width="142" height="17.34" as="geometry" />
         </mxCell>
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;，IRIS&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="668.2983262803818" y="257.1100718180338" width="46" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-43" value="模态统一Token化（RLVR-World）" style="text;fontSize=6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="509" y="215.66" width="142" height="17.34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
