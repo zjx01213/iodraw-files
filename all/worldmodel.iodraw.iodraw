@@ -207,7 +207,7 @@
           <mxGeometry x="508" y="296" width="79" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-65" value="提出用强化学习直接优化任务指标。将预测准确性等下游任务指标作为可验证的奖励，通过RL优化模型，使预测与最终价值目标对齐。（RLVR-World）" style="text;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="508" y="310.34000000000003" width="142" height="17.34" as="geometry" />
+          <mxGeometry x="508" y="310.34" width="399" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-66" value="自回归Transformer同时预测下一帧Token、即时奖励和回合终止信号，实现协同预测。（IRIS）" style="text;fontSize=6;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="508" y="328" width="248" height="17.34" as="geometry" />
