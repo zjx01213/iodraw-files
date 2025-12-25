@@ -119,8 +119,8 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-13" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; font-weight: 600; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;RLVR-World&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="261" y="574" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-15" value="交错序列+Transformer注意力" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="543" y="91" width="96" height="19" as="geometry" />
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-15" value="交错序列+Transformer注意力（MineWorld）" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="457" y="81" width="136" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
