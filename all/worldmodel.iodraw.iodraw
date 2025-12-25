@@ -80,7 +80,7 @@
         <mxCell id="NQwY3s2Qns443cm_A0cX-9" value="&lt;h3 style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 1px 0px 0px; padding: 0px; font-size: 6px; line-height: 100%; overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;header-iWP5WJ auto-hide-last-sibling-br&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Evaluation Metrics&lt;/span&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;rotation=0;direction=east;" parent="1" vertex="1">
           <mxGeometry x="109" y="520" width="53" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="_AZWovh4hy0CgE-k4d6T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;strokeWidth=0.5;" parent="1" source="NQwY3s2Qns443cm_A0cX-27" edge="1">
+        <mxCell id="_AZWovh4hy0CgE-k4d6T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;strokeWidth=0.5;entryX=1.011;entryY=0.906;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NQwY3s2Qns443cm_A0cX-27" edge="1" target="OVBxQa8PjKTIBKTiRORm-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="549" y="98" as="targetPoint" />
             <Array as="points">
