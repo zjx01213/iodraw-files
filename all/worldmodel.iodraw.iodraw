@@ -158,7 +158,7 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-41" value="模态统一Token化（RLVR-World）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="510" y="159" width="142" height="17.34" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-43" value="模态统一Token化（IRIS）" style="text;fontSize=6;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-43" value="动作Token交错（IRIS）" style="text;fontSize=6;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="510" y="176.66" width="142" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-28" target="OVBxQa8PjKTIBKTiRORm-38">
@@ -170,7 +170,7 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-51" value="潜空间想象（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="508" y="217.66" width="79" height="17.34" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-52" value="潜变量预测+视频扩散解码（PAN）" style="text;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-52" value="自然语言动作条件（PAN）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="508" y="233.66" width="90" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-53" value="模态统一Token化（RLVR-World）" style="text;fontSize=6;" vertex="1" parent="1">
