@@ -123,13 +123,13 @@
           <mxGeometry x="457" y="81" width="136" height="19" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-18" value="紧凑潜状态空间（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="475" y="100" width="86.63" height="17.34" as="geometry" />
+          <mxGeometry x="475" y="98" width="86.63" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-19" value="LLM骨干 + 结构化潜变量（PAN）" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="471" y="113" width="108" height="19" as="geometry" />
+          <mxGeometry x="475" y="113" width="108" height="19" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-20" value="自回归Transformer的序列建模（RLVR-World，IRIS）" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="438.31" y="132" width="161" height="19" as="geometry" />
+          <mxGeometry x="471" y="129" width="161" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
