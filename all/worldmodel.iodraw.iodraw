@@ -128,6 +128,9 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-19" value="LLM骨干 + 结构化潜变量（PAN）" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="471" y="113" width="108" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-20" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); font-weight: 600;&quot;&gt;自回归Transformer的序列建模&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="378" y="131" width="230" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
