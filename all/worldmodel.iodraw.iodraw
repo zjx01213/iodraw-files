@@ -85,7 +85,8 @@
             <mxPoint x="549" y="98" as="targetPoint" />
             <Array as="points">
               <mxPoint x="467" y="137" />
-              <mxPoint x="467" y="98" />
+              <mxPoint x="467" y="94" />
+              <mxPoint x="611" y="94" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -123,7 +124,7 @@
           <mxGeometry x="490" y="81" width="120" height="19" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-18" value="紧凑潜状态空间（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="490" y="95.66" width="79" height="17.34" as="geometry" />
+          <mxGeometry x="490" y="111.66" width="79" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-25" value="LLM骨干 + 结构化潜变量（PAN）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="490" y="111.66" width="90" height="17.34" as="geometry" />
