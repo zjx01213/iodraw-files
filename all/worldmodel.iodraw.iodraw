@@ -125,8 +125,8 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-18" value="紧凑潜状态空间（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="475" y="100" width="86.63" height="17.34" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-19" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;LLM骨干 + 结构化潜变量（PAN）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="112" width="249" height="30" as="geometry" />
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-19" value="LLM骨干 + 结构化潜变量（PAN）" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="112" width="259" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
