@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="tDotYac5szit9oAzrY43">
-    <mxGraphModel dx="332" dy="203" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="577" dy="353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-27" target="OVBxQa8PjKTIBKTiRORm-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-27" target="OVBxQa8PjKTIBKTiRORm-25">
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;curved=1;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-27" target="OVBxQa8PjKTIBKTiRORm-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-27" target="OVBxQa8PjKTIBKTiRORm-26">
@@ -133,6 +133,18 @@
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-27" target="OVBxQa8PjKTIBKTiRORm-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-38" value="交错序列+Transformer注意力（MineWorld）" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="519" y="49" width="120" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-39" value="紧凑潜状态空间（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="519" y="63.66" width="79" height="17.34" as="geometry" />
+        </mxCell>
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-40" value="LLM骨干 + 结构化潜变量（PAN）" style="text;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="519" y="79.66" width="90" height="17.34" as="geometry" />
+        </mxCell>
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-41" value="自回归Transformer的序列建模（RLVR-World，IRIS）" style="text;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="519" y="97" width="142" height="17.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
