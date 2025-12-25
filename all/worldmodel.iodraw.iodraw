@@ -129,7 +129,7 @@
           <mxGeometry x="471" y="129" width="161" height="19" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-22" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;LLM骨干 + 结构化潜变量（PAN）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="518.1423645019531" y="162.71108627319336" width="118" height="36" as="geometry" />
+          <mxGeometry x="522.5699999999999" y="178" width="57.86" height="7.29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
