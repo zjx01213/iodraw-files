@@ -194,20 +194,17 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="NQwY3s2Qns443cm_A0cX-29" target="OVBxQa8PjKTIBKTiRORm-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-62" value="图像Token化压缩 + 并行解码（MineWorld）" style="text;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="519" y="211.66" width="119" height="19" as="geometry" />
-        </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-63" value="潜空间想象（Dreamer）" style="text;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="518" y="227.66" width="79" height="17.34" as="geometry" />
+          <mxGeometry x="508" y="315" width="79" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-64" value="潜变量预测+视频扩散解码（PAN）" style="text;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="518" y="243.66" width="90" height="17.34" as="geometry" />
+          <mxGeometry x="508" y="331" width="90" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-65" value="Token化压缩（RLVR-World）" style="text;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="518" y="261" width="142" height="17.34" as="geometry" />
+          <mxGeometry x="508" y="348.34000000000003" width="142" height="17.34" as="geometry" />
         </mxCell>
         <mxCell id="OVBxQa8PjKTIBKTiRORm-66" value="离散自编码器(VQ-VAE)（IRIS）" style="text;fontSize=6;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="518" y="278.65999999999997" width="142" height="17.34" as="geometry" />
+          <mxGeometry x="508" y="366" width="142" height="17.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
