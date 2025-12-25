@@ -128,8 +128,8 @@
         <mxCell id="OVBxQa8PjKTIBKTiRORm-19" value="LLM骨干 + 结构化潜变量（PAN）" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="471" y="113" width="108" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="OVBxQa8PjKTIBKTiRORm-20" value="自回归Transformer的序列建模" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="469.31" y="132" width="98" height="19" as="geometry" />
+        <mxCell id="OVBxQa8PjKTIBKTiRORm-20" value="自回归Transformer的序列建模（RLVR-World，IRIS）" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="438.31" y="132" width="161" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
