@@ -199,7 +199,7 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-80" value="Movie" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="303" y="135" width="93" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-81" value="duration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-81" value="gender" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="732" y="256" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-82" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -208,7 +208,7 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-83" value="actor_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="219" width="99" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-84" value="genre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-84" value="birth_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="814" y="214" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-85" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-83" target="y5p4N5TnGxnp9UrF18br-89">
