@@ -38,13 +38,13 @@
           <mxGeometry x="-152" y="-431" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-14" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-142" y="-421" width="99" height="45" as="geometry" />
+          <mxGeometry x="-145" y="-364" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-15" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-132" y="-411" width="99" height="45" as="geometry" />
+          <mxGeometry x="-335" y="-386" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-16" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-122" y="-401" width="99" height="45" as="geometry" />
+          <mxGeometry x="-25" y="-442" width="99" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
