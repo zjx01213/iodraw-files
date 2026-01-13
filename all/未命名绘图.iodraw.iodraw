@@ -394,7 +394,7 @@
             <mxPoint x="1588" y="214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-167" value="start_time" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-167" value="price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1226" y="222" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-168" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-167" target="y5p4N5TnGxnp9UrF18br-116">
