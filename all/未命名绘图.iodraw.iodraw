@@ -280,7 +280,7 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-117" value="Rating" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="963" y="-403" width="93" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-118" value="city" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-118" value="movie_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-550" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-119" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -289,7 +289,7 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-120" value="rating_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="838" y="-519" width="99" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-121" value="address" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-121" value="score" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1107" y="-524" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-122" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-120" target="y5p4N5TnGxnp9UrF18br-117">
