@@ -355,7 +355,7 @@
             <mxPoint x="1581" y="-5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-154" value="Hall" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-154" value="Order" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1196" y="-1" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-155" value="cinema_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -395,7 +395,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-167" value="price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1226" y="222" width="99" height="45" as="geometry" />
+          <mxGeometry x="1221" y="214" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-168" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-167" target="y5p4N5TnGxnp9UrF18br-116">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
