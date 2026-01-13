@@ -672,10 +672,15 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-240" value="评价" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="764" y="-334" width="109" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-241" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-241" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-26" target="y5p4N5TnGxnp9UrF18br-240">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="572" y="-172" as="sourcePoint" />
             <mxPoint x="622" y="-222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5p4N5TnGxnp9UrF18br-242" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y5p4N5TnGxnp9UrF18br-241">
+          <mxGeometry x="0.1618" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
