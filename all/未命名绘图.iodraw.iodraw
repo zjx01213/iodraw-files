@@ -238,45 +238,6 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-89" value="Actor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="678" y="130" width="93" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-90" value="gender" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="742" y="266" width="99" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-91" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="633" y="269" width="99" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-92" value="actor_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="229" width="99" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-93" value="birth_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="824" y="224" width="99" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-94" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-92" target="y5p4N5TnGxnp9UrF18br-98">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="718" y="289" as="sourcePoint" />
-            <mxPoint x="757" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-95" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-91" target="y5p4N5TnGxnp9UrF18br-98">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="527" y="392" as="sourcePoint" />
-            <mxPoint x="757" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-96" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-90" target="y5p4N5TnGxnp9UrF18br-98">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="612" y="349" as="sourcePoint" />
-            <mxPoint x="757" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-97" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-93">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="696" y="299" as="sourcePoint" />
-            <mxPoint x="1012" y="158" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-98" value="Actor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="688" y="140" width="93" height="47" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
