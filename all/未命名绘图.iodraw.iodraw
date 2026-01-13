@@ -683,18 +683,6 @@
             <mxPoint x="3" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-243" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="572" y="-172" as="sourcePoint" />
-            <mxPoint x="622" y="-222" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-244" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="572" y="-172" as="sourcePoint" />
-            <mxPoint x="622" y="-222" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
