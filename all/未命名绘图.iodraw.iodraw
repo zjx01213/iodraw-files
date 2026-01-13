@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-55" value="Seat" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="5" width="93" height="47" as="geometry" />
+          <mxGeometry x="69" y="2" width="93" height="47" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-56" value="hall_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-163" y="-34" width="99" height="45" as="geometry" />
@@ -434,7 +434,7 @@
           <mxGeometry x="263" y="-210" width="25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-180" value="包含" style="rhombus;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="71" y="-87" width="99" height="33" as="geometry" />
+          <mxGeometry x="66" y="-87" width="99" height="33" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-182" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-180" target="y5p4N5TnGxnp9UrF18br-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
