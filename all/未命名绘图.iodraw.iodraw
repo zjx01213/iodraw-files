@@ -519,8 +519,8 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-206" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="890" y="125" width="25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-207" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="459" y="-80" width="80" height="80" as="geometry" />
+        <mxCell id="y5p4N5TnGxnp9UrF18br-207" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="-80" width="105" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
