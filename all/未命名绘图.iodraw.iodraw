@@ -121,7 +121,7 @@
             <mxPoint x="151" y="17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-55" value="Hall" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-55" value="Seat" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="133" y="5" width="93" height="47" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-56" value="cinema_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
