@@ -85,7 +85,7 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-45" value="Hall" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="254" y="-110" width="93" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-46" value="city" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-46" value="cinema_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-47" y="-227" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-47" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
