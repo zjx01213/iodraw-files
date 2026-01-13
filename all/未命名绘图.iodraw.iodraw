@@ -46,7 +46,7 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-35" value="Cinema" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="579" y="-358" width="93" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-36" value="username" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-36" value="city" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-508" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-37" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-38" value="cinema_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="403" y="-436" width="99" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-39" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-39" value="address" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="636" y="-536" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-38" target="y5p4N5TnGxnp9UrF18br-35">
@@ -81,6 +81,9 @@
             <mxPoint x="565" y="-439" as="sourcePoint" />
             <mxPoint x="625" y="-297" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y5p4N5TnGxnp9UrF18br-44" value="address" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="851.3380126953125" y="-501.85491689046216" width="71" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
