@@ -358,10 +358,10 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-154" value="Order" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1196" y="-1" width="80" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-155" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-155" value="total_price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1366" y="-32" width="99" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-156" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-156" value="total_price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1368" y="18" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-157" value="seat_count" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
