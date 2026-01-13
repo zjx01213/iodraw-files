@@ -244,7 +244,7 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-109" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="998" y="256" width="99" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-110" value="actor_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-110" value="schedule_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="216" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-111" value="birth_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -274,7 +274,7 @@
             <mxPoint x="1122" y="367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-116" value="Actor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-116" value="Schedule" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1053" y="127" width="93" height="47" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-117" value="Cinema" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
