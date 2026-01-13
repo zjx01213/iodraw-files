@@ -161,16 +161,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-72" value="duration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="261" width="99" height="45" as="geometry" />
+          <mxGeometry x="273" y="258" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-73" value="title" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248" y="264" width="99" height="45" as="geometry" />
+          <mxGeometry x="164" y="261" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-74" value="movie_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="223" width="105" height="47" as="geometry" />
+          <mxGeometry x="83" y="220" width="105" height="47" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-75" value="genre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="219" width="99" height="45" as="geometry" />
+          <mxGeometry x="355" y="216" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-76" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y5p4N5TnGxnp9UrF18br-74" target="y5p4N5TnGxnp9UrF18br-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
