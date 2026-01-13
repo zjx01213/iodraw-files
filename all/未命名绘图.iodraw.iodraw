@@ -277,16 +277,16 @@
         <mxCell id="y5p4N5TnGxnp9UrF18br-116" value="Schedule" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1053" y="127" width="93" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-117" value="Cinema" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-117" value="Rating" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="963" y="-403" width="93" height="47" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-118" value="city" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-550" width="99" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-119" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-119" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="916" y="-550" width="99" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="y5p4N5TnGxnp9UrF18br-120" value="cinema_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y5p4N5TnGxnp9UrF18br-120" value="rating_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="838" y="-519" width="99" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5p4N5TnGxnp9UrF18br-121" value="address" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
