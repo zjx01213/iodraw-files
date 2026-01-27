@@ -14,7 +14,7 @@
           <mxGeometry x="-129" y="309" width="95" height="46" as="geometry" />
         </mxCell>
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-4" value="获取表征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="305" width="65" height="33" as="geometry" />
+          <mxGeometry x="56.5" y="317" width="65" height="33" as="geometry" />
         </mxCell>
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -24,9 +24,12 @@
         </mxCell>
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="87" y="268" as="sourcePoint" />
-            <mxPoint x="87" y="304" as="targetPoint" />
+            <mxPoint x="90" y="271" as="sourcePoint" />
+            <mxPoint x="90" y="307" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BVT3hDSlOn_QZRsw7rs9-8" value="定义一个表征空间，使两种范式获取的的表征都和空间对齐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="357" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
