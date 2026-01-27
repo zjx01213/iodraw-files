@@ -10,8 +10,8 @@
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-2" value="表征预测范式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="43" y="229" width="92" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="BVT3hDSlOn_QZRsw7rs9-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-128" y="305" width="120" height="60" as="geometry" />
+        <mxCell id="BVT3hDSlOn_QZRsw7rs9-3" value="训练一个预测头&lt;div&gt;用于提取生成视频对应表征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-128" y="305" width="95" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
