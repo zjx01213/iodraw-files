@@ -13,8 +13,14 @@
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-3" value="训练一个预测头&lt;div&gt;用于提取生成视频对应表征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-128" y="305" width="95" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="BVT3hDSlOn_QZRsw7rs9-4" value="训练一个预测头&lt;div&gt;用于提取生成视频对应表征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-118" y="315" width="95" height="46" as="geometry" />
+        <mxCell id="BVT3hDSlOn_QZRsw7rs9-4" value="获取表征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="305" width="95" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="BVT3hDSlOn_QZRsw7rs9-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-112" y="328" as="sourcePoint" />
+            <mxPoint x="-62" y="278" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
