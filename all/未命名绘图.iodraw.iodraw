@@ -11,15 +11,21 @@
           <mxGeometry x="43" y="229" width="92" height="36" as="geometry" />
         </mxCell>
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-3" value="训练一个预测头&lt;div&gt;用于提取生成视频对应表征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-128" y="305" width="95" height="46" as="geometry" />
+          <mxGeometry x="-129" y="309" width="95" height="46" as="geometry" />
         </mxCell>
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-4" value="获取表征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="305" width="95" height="46" as="geometry" />
         </mxCell>
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-86" y="269" as="sourcePoint" />
-            <mxPoint x="-86" y="305" as="targetPoint" />
+            <mxPoint x="-82" y="269" as="sourcePoint" />
+            <mxPoint x="-82" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVT3hDSlOn_QZRsw7rs9-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-72" y="279" as="sourcePoint" />
+            <mxPoint x="-72" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
