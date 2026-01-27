@@ -13,7 +13,7 @@
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-3" value="训练一个预测头&lt;div&gt;用于提取生成视频对应表征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-129" y="309" width="95" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="BVT3hDSlOn_QZRsw7rs9-4" value="获取表征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BVT3hDSlOn_QZRsw7rs9-4" value="获取表征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="67.25" y="313" width="75.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -28,7 +28,7 @@
             <mxPoint x="106" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BVT3hDSlOn_QZRsw7rs9-8" value="定义一个表征空间，使两种范式获取的的表征都与之对齐，进而方便下一步工作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BVT3hDSlOn_QZRsw7rs9-8" value="定义一个表征空间，使两种范式获取的的表征都与之对齐，进而方便下一步工作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-49" y="402" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -49,7 +49,7 @@
             <mxPoint x="10.52" y="514" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BVT3hDSlOn_QZRsw7rs9-12" value="参考表征预测范式类别对应的物理属性测评工作（VJEPA三大基准）设计下游测评任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BVT3hDSlOn_QZRsw7rs9-12" value="参考表征预测范式类别对应的物理属性测评工作（VJEPA三大基准）设计下游测评任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-52" y="520" width="126" height="69" as="geometry" />
         </mxCell>
       </root>
