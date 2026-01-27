@@ -14,7 +14,7 @@
           <mxGeometry x="-129" y="309" width="95" height="46" as="geometry" />
         </mxCell>
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-4" value="获取表征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="56.5" y="317" width="65" height="33" as="geometry" />
+          <mxGeometry x="46" y="312" width="75.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="BVT3hDSlOn_QZRsw7rs9-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
