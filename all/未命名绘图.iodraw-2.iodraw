@@ -23,7 +23,10 @@
           <mxGeometry x="393" y="74" width="204" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-9" value="动态场景&lt;div&gt;（也就是4DGS）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127" y="64" width="120" height="60" as="geometry" />
+          <mxGeometry x="162" y="49" width="78" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="112" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
