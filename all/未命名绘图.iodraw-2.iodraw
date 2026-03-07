@@ -7,7 +7,7 @@
         <mxCell id="qRNcv4Y9XyW1TS1izVH3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-2" target="ZSohGUwWQ5iUTKGQCnaz-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-2" target="ZSohGUwWQ5iUTKGQCnaz-10">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-2" target="ZSohGUwWQ5iUTKGQCnaz-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-2" value="3DGS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-6" value="基于变形场的方法（就是把不同时间点通过变形场弄到一个最初时间点，也就是变成了静态场景）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="92" width="204" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-9" target="ZSohGUwWQ5iUTKGQCnaz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-9" target="ZSohGUwWQ5iUTKGQCnaz-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-9" value="动态场景&lt;div&gt;（也就是4DGS）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="107" y="181" width="78" height="57" as="geometry" />
