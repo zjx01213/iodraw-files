@@ -31,16 +31,13 @@
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-11" value="领域内存在问题或者缺陷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="267" y="256" width="78" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-12" target="qRNcv4Y9XyW1TS1izVH3-3">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750.0213479434742" y="222.52941176470586" as="targetPoint" />
+            <mxPoint x="755.9999999999998" y="225.94117647058818" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-12" value="3D频率约束缺失，原生的3DGS是使用2D膨胀滤波器，但是这样在放大或者是缩小的时候会出现混叠或者是伪影" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="200" width="326" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-3" value="&lt;h2 style=&quot;box-sizing: border-box; outline: 0px; margin: 24px 0px 8px; padding: 0px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial, SimSun; font-size: 22px; color: rgb(79, 79, 79); line-height: 32px; font-synthesis-style: auto; overflow-wrap: break-word; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; font-weight: normal; font-synthesis-style: auto; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; font-synthesis-style: auto; overflow-wrap: break-word; font-size: 12px;&quot;&gt;Mip-Splatting&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="756" y="192" width="120" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
