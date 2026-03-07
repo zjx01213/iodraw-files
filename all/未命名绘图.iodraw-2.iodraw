@@ -28,6 +28,9 @@
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-10" value="静态场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="107" y="370" width="76" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-11" value="领域内存在问题或者缺陷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="198" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
