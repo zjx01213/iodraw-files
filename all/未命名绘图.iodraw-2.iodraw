@@ -1,91 +1,94 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="nQZw25pOG2M_n-pzXeeG">
-    <mxGraphModel dx="2044" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1582" dy="300" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-2" target="ZSohGUwWQ5iUTKGQCnaz-9">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-2" target="ZSohGUwWQ5iUTKGQCnaz-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-2" target="ZSohGUwWQ5iUTKGQCnaz-10">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-2" target="ZSohGUwWQ5iUTKGQCnaz-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-2" value="3DGS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-2" value="3DGS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-4" y="266" width="68" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-3" target="ZSohGUwWQ5iUTKGQCnaz-5">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-3" target="ZSohGUwWQ5iUTKGQCnaz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-3" target="ZSohGUwWQ5iUTKGQCnaz-6">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-3" target="ZSohGUwWQ5iUTKGQCnaz-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-3" value="实现方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-3" value="实现方法" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="264" y="63" width="68" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-5" value="迭代式方法（逐帧更新高斯核参数）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-5" value="迭代式方法（逐帧更新高斯核参数）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="382" y="34" width="204" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-6" value="基于变形场的方法（就是把不同时间点通过变形场弄到一个最初时间点，也就是变成了静态场景）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-6" value="基于变形场的方法（就是把不同时间点通过变形场弄到一个最初时间点，也就是变成了静态场景）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="382" y="92" width="204" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-9" target="ZSohGUwWQ5iUTKGQCnaz-3">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-9" target="ZSohGUwWQ5iUTKGQCnaz-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-9" target="ZSohGUwWQ5iUTKGQCnaz-11">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-9" target="ZSohGUwWQ5iUTKGQCnaz-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-9" value="动态场景&lt;div&gt;（也就是4DGS）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-9" value="动态场景&lt;div&gt;（也就是4DGS）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="107" y="181" width="78" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-10" target="qRNcv4Y9XyW1TS1izVH3-9">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-10" target="qRNcv4Y9XyW1TS1izVH3-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-10" value="静态场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-10" value="静态场景" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="107" y="370" width="76" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-11" target="qRNcv4Y9XyW1TS1izVH3-19">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-11" target="qRNcv4Y9XyW1TS1izVH3-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="375.26640828450536" y="239.91665395100915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-11" value="领域内存在问题或者缺陷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-11" value="领域内存在问题或者缺陷" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="267" y="261" width="78" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-12" target="qRNcv4Y9XyW1TS1izVH3-4">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-12" target="qRNcv4Y9XyW1TS1izVH3-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="767.9999999999998" y="546.9411764705882" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-12" value="3D频率约束缺失，原生的3DGS是使用2D膨胀滤波器，但是这样在放大或者是缩小的时候会出现混叠或者是伪影" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-12" value="3D频率约束缺失，原生的3DGS是使用2D膨胀滤波器，但是这样在放大或者是缩小的时候会出现混叠或者是伪影" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="394" y="521" width="326" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-4" value="mip-splatting——使用3D平滑滤波器和mip滤波器，" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-4" value="mip-splatting——使用3D平滑滤波器和mip滤波器，" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="776" y="526" width="182" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qRNcv4Y9XyW1TS1izVH3-5" target="qRNcv4Y9XyW1TS1izVH3-7">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qRNcv4Y9XyW1TS1izVH3-5" target="qRNcv4Y9XyW1TS1izVH3-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="782.5901955997242" y="603.5294117647059" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;传统方法易因点云空洞、离群点产生渲染伪影，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;3D-GS 存在高斯冗余、忽视场景结构、视角适应性差等问题。&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;传统方法易因点云空洞、离群点产生渲染伪影，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;3D-GS 存在高斯冗余、忽视场景结构、视角适应性差等问题。&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="394" y="580" width="321" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;em style=&quot;box-sizing: border-box; outline: 0px; font-synthesis-style: auto; overflow-wrap: break-word; font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; text-align: start; background-color: rgb(238, 240, 244);&quot;&gt;&amp;nbsp;Scaffold-GS——&lt;/em&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;从稀疏体素网格中初始化锚点，以锚点引导局部 3D 高斯分布的分布规律&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;em style=&quot;box-sizing: border-box; outline: 0px; font-synthesis-style: auto; overflow-wrap: break-word; font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; text-align: start; background-color: rgb(238, 240, 244);&quot;&gt;&amp;nbsp;Scaffold-GS——&lt;/em&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;从稀疏体素网格中初始化锚点，以锚点引导局部 3D 高斯分布的分布规律&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="776" y="583" width="258" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="qRNcv4Y9XyW1TS1izVH3-9" target="ZSohGUwWQ5iUTKGQCnaz-12">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" parent="1" source="qRNcv4Y9XyW1TS1izVH3-9" target="ZSohGUwWQ5iUTKGQCnaz-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="qRNcv4Y9XyW1TS1izVH3-9" target="qRNcv4Y9XyW1TS1izVH3-5">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="qRNcv4Y9XyW1TS1izVH3-9" target="qRNcv4Y9XyW1TS1izVH3-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-9" value="领域内存在问题或者缺陷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-9" value="领域内存在问题或者缺陷" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="267" y="549" width="78" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-19" value="动态场景重建仍常出现明显的运动模糊问题，在新视角下的重建效果中该问题尤为突出。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="qRNcv4Y9XyW1TS1izVH3-19" target="qRNcv4Y9XyW1TS1izVH3-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-19" value="动态场景重建仍常出现明显的运动模糊问题，在新视角下的重建效果中该问题尤为突出。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="197" width="252" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="699" y="195" width="128" height="41" as="geometry" />
         </mxCell>
       </root>
