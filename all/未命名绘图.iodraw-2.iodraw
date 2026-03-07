@@ -39,8 +39,8 @@
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-12" value="3D频率约束缺失，原生的3DGS是使用2D膨胀滤波器，但是这样在放大或者是缩小的时候会出现混叠或者是伪影" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="200" width="326" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-4" value="mip-splatting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="764" y="205" width="88" height="33" as="geometry" />
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-4" value="mip-splatting——使用mip滤波器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="764" y="205" width="139" height="33" as="geometry" />
         </mxCell>
         <mxCell id="qRNcv4Y9XyW1TS1izVH3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qRNcv4Y9XyW1TS1izVH3-5">
           <mxGeometry relative="1" as="geometry">
