@@ -31,7 +31,7 @@
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-11" value="领域内存在问题或者缺陷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="267" y="256" width="78" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-12" value="3D频率约束缺失，原生的3DGS是使用2D膨胀滤波器，但是这样在放大或者是缩小的时候会出现混叠或者是伪影" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="200" width="203" height="44" as="geometry" />
         </mxCell>
       </root>
