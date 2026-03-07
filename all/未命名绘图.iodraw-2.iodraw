@@ -25,7 +25,7 @@
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-9" value="动态场景&lt;div&gt;（也就是4DGS）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="49" width="78" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-10" value="静态场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="179" y="212" width="75" height="58" as="geometry" />
         </mxCell>
       </root>
