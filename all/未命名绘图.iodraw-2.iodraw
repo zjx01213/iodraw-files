@@ -13,7 +13,7 @@
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-3" target="ZSohGUwWQ5iUTKGQCnaz-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-3" value="方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-3" value="实现方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297" y="55" width="68" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-5" value="迭代式方法（逐帧更新高斯核参数）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -26,7 +26,7 @@
           <mxGeometry x="162" y="49" width="78" height="57" as="geometry" />
         </mxCell>
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="112" width="120" height="60" as="geometry" />
+          <mxGeometry x="239" y="112" width="92" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
