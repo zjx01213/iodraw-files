@@ -88,7 +88,7 @@
         <mxCell id="qRNcv4Y9XyW1TS1izVH3-19" value="动态场景重建仍常出现明显的运动模糊问题，在新视角下的重建效果中该问题尤为突出。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="197" width="252" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-20" value="FAGS——" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-20" value="FAGS——通过提出频域分化高斯核，实现高频细节与平滑低频区域建模的解耦" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="193" width="128" height="41" as="geometry" />
         </mxCell>
       </root>
