@@ -43,7 +43,7 @@
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-10" value="静态场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="107" y="370" width="76" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="qRNcv4Y9XyW1TS1izVH3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-11">
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="375.26640828450536" y="239.91665395100915" as="targetPoint" />
           </mxGeometry>
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="qRNcv4Y9XyW1TS1izVH3-9" value="领域内存在问题或者缺陷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="267" y="549" width="78" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qRNcv4Y9XyW1TS1izVH3-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="194" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
