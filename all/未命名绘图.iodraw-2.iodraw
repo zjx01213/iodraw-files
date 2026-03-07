@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-2" value="3DGS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="130" width="68" height="45" as="geometry" />
+          <mxGeometry x="10" y="262" width="68" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ZSohGUwWQ5iUTKGQCnaz-3" target="ZSohGUwWQ5iUTKGQCnaz-5">
           <mxGeometry relative="1" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry x="393" y="74" width="204" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-9" value="动态场景&lt;div&gt;（也就是4DGS）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="162" y="49" width="78" height="57" as="geometry" />
+          <mxGeometry x="107" y="181" width="78" height="57" as="geometry" />
         </mxCell>
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-10" value="静态场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="162" y="238" width="76" height="45" as="geometry" />
+          <mxGeometry x="107" y="370" width="76" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
