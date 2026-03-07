@@ -10,6 +10,9 @@
         <mxCell id="ZSohGUwWQ5iUTKGQCnaz-3" value="动态场景&lt;div&gt;（也就是4DGS）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="73" width="68" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="ZSohGUwWQ5iUTKGQCnaz-5" value="3DGS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="140" width="68" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
