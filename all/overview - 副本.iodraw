@@ -392,8 +392,8 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-421" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#dae8fc;strokeColor=#DAE8FC;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="288" y="1134.5" width="255" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-422" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Optical flow constraint&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="354.5" y="1136.5" width="123.5" height="30" as="geometry" />
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-422" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Optical flow constraint&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="340.25" y="1134.5" width="152.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-424" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;flow_loss +&amp;nbsp;flow_consistency_loss&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="310" y="1154.5" width="205" height="30" as="geometry" />
