@@ -390,16 +390,16 @@
           <mxGeometry x="584" y="1044" width="266" height="53" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-421" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#dae8fc;strokeColor=#DAE8FC;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="63" y="1142" width="255" height="115" as="geometry" />
+          <mxGeometry x="201" y="1324" width="255" height="115" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-422" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Optical Flow Loss&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="129.5" y="1144" width="123.5" height="30" as="geometry" />
+          <mxGeometry x="267.5" y="1326" width="123.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-424" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;flow_loss +&amp;nbsp;flow_consistency_loss&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="85" y="1162" width="205" height="30" as="geometry" />
+          <mxGeometry x="223" y="1344" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-431" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;L_optical = λ_flow · L_flow+ λ_cons · L_cons&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#007FFF;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="80.25" y="1189" width="214" height="46" as="geometry" />
+          <mxGeometry x="218.25" y="1371" width="214" height="46" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-436" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#e1d5e7;strokeColor=#E1D5E7;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="328.5" y="1145" width="255" height="116" as="geometry" />
