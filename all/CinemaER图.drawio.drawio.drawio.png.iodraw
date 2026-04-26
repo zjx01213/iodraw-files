@@ -1085,7 +1085,7 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-412" value="&lt;h3 style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 20px; line-height: 30px; font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin: 32px 0px 16px; color: rgb(15, 17, 21); text-align: start;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Flow Consistency Loss&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="299" y="1155" width="228" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-413" value="" style="endArrow=classic;html=1;rounded=1;curved=0;" edge="1" parent="1">
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-413" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="1122" as="sourcePoint" />
             <mxPoint x="167" y="1163" as="targetPoint" />
@@ -1095,7 +1095,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-414" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.439;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" target="IOCEjZw-S5fUMM6C0apo-412">
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-414" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.439;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" target="IOCEjZw-S5fUMM6C0apo-412">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="299" y="1124" as="sourcePoint" />
             <mxPoint x="349" y="1074" as="targetPoint" />
