@@ -1071,7 +1071,7 @@
           <mxGeometry x="56" y="1042" width="149" height="54" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-418" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;GT video frames&lt;br&gt;I_gt (sorted by time)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="214" y="1058" width="129" height="38" as="geometry" />
+          <mxGeometry x="214" y="1041" width="138" height="55" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-419" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Gaussian trajectories&lt;br&gt;xyz @ T frames [B,T,3&lt;/p&gt;&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#E1D5E7;" vertex="1" parent="1">
           <mxGeometry x="351" y="1058" width="149" height="38" as="geometry" />
