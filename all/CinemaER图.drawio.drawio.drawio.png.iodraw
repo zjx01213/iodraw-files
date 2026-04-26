@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="mEhvY1pfc-sDpb0wOCEe">
-    <mxGraphModel dx="968" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1359" dy="1346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1050,7 +1050,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-378" value="&lt;p style=&quot;font-size: 8px; line-height: 40%;&quot; data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;v ∈ ℝ³&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px; line-height: 40%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Velocity&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="1450" width="46" height="42" as="geometry" />
+          <mxGeometry x="-121" y="1451" width="46" height="42" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-380" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-106" y="1551" width="18" height="12" as="geometry" />
@@ -1059,7 +1059,7 @@
           <mxGeometry x="-136" y="1483" width="74" height="51" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-387" value="&lt;p style=&quot;line-height: 0%;&quot; data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;c ∈ [0, 1]&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%;&quot; data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Rigidity confidence&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-94" y="1541" width="85" height="51" as="geometry" />
+          <mxGeometry x="-142" y="1521.5" width="85" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
