@@ -390,22 +390,22 @@
           <mxGeometry x="48" y="1486.71" width="186" height="80.5" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-421" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#dae8fc;strokeColor=#DAE8FC;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="288" y="1134.5" width="255" height="115" as="geometry" />
+          <mxGeometry x="307" y="1129" width="255" height="115" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-422" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Optical flow constraint&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="320.63" y="1141" width="189.75" height="30" as="geometry" />
+          <mxGeometry x="339.63" y="1135.5" width="189.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-424" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;flow_loss +&amp;nbsp;flow_consistency_loss&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="317.25" y="1168" width="205" height="30" as="geometry" />
+          <mxGeometry x="336.25" y="1162.5" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-431" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;L_optical = λ_flow · L_flow+ λ_cons · L_cons&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#007FFF;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1195.5" width="214" height="46" as="geometry" />
+          <mxGeometry x="329" y="1190" width="214" height="46" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-436" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#e1d5e7;strokeColor=#E1D5E7;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="288.75" y="1276.5" width="255" height="116" as="geometry" />
+          <mxGeometry x="307.75" y="1271" width="255" height="116" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-437" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#f8cecc;strokeColor=#F8CECC;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="293" y="1426" width="255" height="120" as="geometry" />
+          <mxGeometry x="312" y="1420.5" width="255" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-439" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.817;exitY=-0.114;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" parent="1" edge="1" source="IOCEjZw-S5fUMM6C0apo-369">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -437,29 +437,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-445" value="&lt;p style=&quot;font-size: 17px;&quot; data-pm-slice=&quot;0 0 []&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PCA intrinsic dim&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;constraint&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="305.25" y="1282" width="231.93" height="30" as="geometry" />
+          <mxGeometry x="324.25" y="1276.5" width="231.93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-446" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;compute_pca_loss&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="323.5" y="1312" width="186" height="30" as="geometry" />
+          <mxGeometry x="342.5" y="1306.5" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-453" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;L_PCA = mean( S_norm[:,2:] )&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B266FF;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="310" y="1340.93" width="212.25" height="35" as="geometry" />
+          <mxGeometry x="329" y="1335.43" width="212.25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-455" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Gaussian physics constraint&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="300.82" y="1435.57" width="231.37" height="30" as="geometry" />
+          <mxGeometry x="319.82" y="1430.07" width="231.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-456" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;phys_loss · anchor-based&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="328.75" y="1465.57" width="186" height="30" as="geometry" />
+          <mxGeometry x="347.75" y="1460.07" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-463" value="&lt;p style=&quot;font-size: 14px;&quot; data-pm-slice=&quot;0 0 []&quot;&gt;&lt;b&gt;L_phys = w_r·L_rigid+ w_t·L_traj + w_s·L_smooth&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF99CC;fillColor=#FF99CC;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="306" y="1489.5" width="229" height="43" as="geometry" />
+          <mxGeometry x="325" y="1484" width="229" height="43" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-465" value="&lt;span style=&quot;font-family: sans-serif; font-weight: 700; text-align: start; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;L_total = L1_render + L_optical + L_PCA + L_phys&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#B3B3B3;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="1051" y="1332" width="371" height="47" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-466" value="" style="endArrow=classic;html=1;rounded=0;opacity=50;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="242" y="1482.07" as="sourcePoint" />
+            <mxPoint x="242" y="1522" as="sourcePoint" />
             <mxPoint x="288" y="1482.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
