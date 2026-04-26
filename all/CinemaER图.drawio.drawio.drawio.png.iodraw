@@ -1068,13 +1068,13 @@
           <mxGeometry x="-492" y="1292" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-417" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Rendered frames&lt;/b&gt;&lt;/font&gt;&lt;br&gt;I_pred (stage=fine)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="56" y="1042" width="149" height="54" as="geometry" />
+          <mxGeometry x="56" y="1042" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-418" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;GT video frames&lt;/b&gt;&lt;/font&gt;&lt;br&gt;I_gt (sorted by time)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="226" y="1041" width="148" height="55" as="geometry" />
+          <mxGeometry x="219" y="1041" width="155" height="55" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-419" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Gaussian trajectories&lt;/font&gt;&lt;/b&gt;&lt;br&gt;xyz @ T frames [B,T,3&lt;/p&gt;&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#E1D5E7;" vertex="1" parent="1">
-          <mxGeometry x="387" y="1042" width="179" height="55" as="geometry" />
+          <mxGeometry x="380" y="1042" width="186" height="55" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-420" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Physical attribute heads outputvel&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&amp;nbsp;v, ang.vel ω, rigidity c × 3 frames&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="573" y="1044" width="266" height="53" as="geometry" />
