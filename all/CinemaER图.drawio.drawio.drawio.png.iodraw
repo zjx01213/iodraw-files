@@ -938,7 +938,7 @@
           <mxGeometry x="-47" y="1263" width="48" height="43" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-322" value="HexPlane" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-204.21082899305566" y="1126.932569715712" width="80" height="36" as="geometry" />
+          <mxGeometry x="-231" y="1124" width="59.21" height="27.07" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
