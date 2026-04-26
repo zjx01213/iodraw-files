@@ -958,6 +958,12 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-337" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-154" y="1349" width="31" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-338" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.519;exitY=0.868;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IOCEjZw-S5fUMM6C0apo-315">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-183" y="1297" as="sourcePoint" />
+            <mxPoint x="-133" y="1247" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
