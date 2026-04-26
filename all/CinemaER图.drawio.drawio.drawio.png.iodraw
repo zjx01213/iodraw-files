@@ -931,8 +931,8 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-317" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap;&quot;&gt;Concat [ f₁ · f₂ · f₃ · f₄ · f₅ · f₆ ]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.8;" vertex="1" parent="1">
           <mxGeometry x="-330" y="1360" width="234" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-318" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:12pt;font-family:&#39;ComicSansMS-BoldItalic&#39;;color:rgb(0,0,0);font-weight:bold;font-style:italic;&quot;&gt;Spatial&#xa;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-size:12pt;font-family:&#39;ComicSansMS-BoldItalic&#39;;color:rgb(0,0,0);font-weight:bold;font-style:italic;&quot;&gt;Planes&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2.160412016369037" y="1199.3042747860864" width="83" height="61" as="geometry" />
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-319" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: sans-serif; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;spatial planes&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-33.07768322172615" y="1187.8757033575148" width="92" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
