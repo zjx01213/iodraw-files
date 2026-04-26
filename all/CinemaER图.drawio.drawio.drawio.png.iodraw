@@ -1088,12 +1088,6 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-424" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;flow_loss +&amp;nbsp;flow_consistency_loss&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="74" y="1162" width="205" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-425" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="1386" as="sourcePoint" />
-            <mxPoint x="225" y="1336" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
