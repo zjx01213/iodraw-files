@@ -457,10 +457,13 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-465" value="&lt;span style=&quot;font-family: sans-serif; font-weight: 700; text-align: start; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;L_total = L1_render + L_optical + L_PCA + L_phys&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#B3B3B3;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="1051" y="1332" width="371" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-466" value="" style="endArrow=classic;html=1;rounded=0;opacity=50;" parent="1" edge="1">
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-466" value="" style="endArrow=classic;html=1;rounded=0;opacity=50;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="242" y="1522" as="sourcePoint" />
-            <mxPoint x="288" y="1482.07" as="targetPoint" />
+            <mxPoint x="304" y="1478" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="265" y="1491" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-467" value="" style="endArrow=classic;html=1;rounded=0;opacity=50;" parent="1" edge="1">
