@@ -1076,8 +1076,8 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-419" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Gaussian trajectories&lt;br&gt;xyz @ T frames [B,T,3&lt;/p&gt;&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#E1D5E7;" vertex="1" parent="1">
           <mxGeometry x="351" y="1058" width="149" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-420" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Physical attribute heads outputvel v, ang.vel ω, rigidity c × 3 frames&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="464" y="1190" width="201" height="38" as="geometry" />
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-420" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Physical attribute heads outputvel&lt;br&gt;&amp;nbsp;v, ang.vel ω, rigidity c × 3 frames&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="508" y="1058" width="192" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
