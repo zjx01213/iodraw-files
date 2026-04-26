@@ -1005,10 +1005,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-350" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fillColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="-171" y="1456" width="10" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-356" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fillColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="1456" width="10" height="29" as="geometry" />
+          <mxGeometry x="-171" y="1456" width="15" height="32" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-357" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="-171" y="1494" width="10" height="29" as="geometry" />
