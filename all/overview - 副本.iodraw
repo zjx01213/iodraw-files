@@ -436,8 +436,8 @@
             <mxPoint x="285" y="1329.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-445" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PCA intrinsic dim&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;constraint&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="330.63" y="1282.57" width="178.25" height="30" as="geometry" />
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-445" value="&lt;p style=&quot;font-size: 14px;&quot; data-pm-slice=&quot;0 0 []&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PCA intrinsic dim&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;constraint&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="330.63" y="1282.57" width="193.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-446" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;compute_pca_loss&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="323.25" y="1300.57" width="186" height="30" as="geometry" />
