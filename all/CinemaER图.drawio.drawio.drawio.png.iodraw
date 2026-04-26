@@ -910,14 +910,11 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-309" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-296" y="1251" width="24" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-310" value="XY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-337" y="1228" width="34" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-311" value="XZ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-231" y="1228" width="33" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-313" value="XZ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-221" y="1238" width="33" height="26" as="geometry" />
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-313" value="XT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-127" y="1228" width="33" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
