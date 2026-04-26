@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="mEhvY1pfc-sDpb0wOCEe">
-    <mxGraphModel dx="2478" dy="-72" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3391" dy="449" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -539,6 +539,11 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-464" value="&lt;span style=&quot;font-family: sans-serif; font-size: 9px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;PCA warmup &amp;gt; 5000&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="657.75" y="1369" width="130" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-478" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOCEjZw-S5fUMM6C0apo-465">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1163.2353166852681" y="1400.812447684152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-465" value="&lt;span style=&quot;font-family: sans-serif; font-weight: 700; text-align: start; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;L_total = L1_render + L_optical + L_PCA + L_phys&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#B3B3B3;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="255" y="1436" width="371" height="47" as="geometry" />
         </mxCell>
@@ -561,13 +566,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-469" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="63" y="1503" width="784" height="83" as="geometry" />
+          <mxGeometry x="-312" y="1684" width="784" height="83" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-470" value="&lt;span style=&quot;font-family: sans-serif; font-size: 15px; font-weight: 600; text-wrap-mode: nowrap;&quot;&gt;Two-stage&lt;br&gt;&amp;nbsp;training：&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="82" y="1522" width="105" height="37.5" as="geometry" />
+          <mxGeometry x="-293" y="1703" width="105" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-471" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: sans-serif; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Stage coarse (iter 0–3000): L1_render only · build geometry&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: sans-serif; text-wrap-mode: nowrap; background-color: initial;&quot;&gt;Stage fine (iter 0–30000): L_total with phys warmup &amp;gt; 5000, PCA warmup &amp;gt; 5000, flow every 10 iters&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="184" y="1503" width="670" height="78" as="geometry" />
+          <mxGeometry x="-191" y="1684" width="670" height="78" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-476" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAEKCAYAAABzOlcQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHbSURBVHhe7d0hSF1RGMDx/8MXXhjsBcOCwbBgWFxYMCwYDMLCjAaDweBYmWBUhlgGLgwWDAsvODAaDAaDQeFtybBgMCy8wUCFBUWDK59yPcXiOaf8f3C5cL8P7sc934nfuUPk0QVOgGHgJ3CZJpQwB/wFBsBMGiylC6wD18AB8DJNKOUFsAvcABuxNAC0gCfA9P38bN4CU8A5sAJ8ARiNykpf18BCWmFOw8DXePF+yX5oAx+Asxo7YhL4BVwAa9FvRXSAnVjrHeB5mpBbJ9Z7Mg1IkiRJkiRJkiRJkiRJkiRJkiRJkiRJqaH0wSOZBq6A0zRQylGNWeOmDrAE/Ksxbd00AvRiALrq+QPjQD8K2QCe3QZawN793GzawKu4nwOrwKcWsJxmZvIUmI/+OATeAT/SpBza8eIq4//jtbbkCLAZTbddY/z/dxx8UG38fyzWXpIkSZIkSZIkSZIkSZIkSZIkSZIkSXpQrvMH9uJ/933gMg2WMBtT1gNgLg2W0gXW41fz/Rh8r2IM2I0p7F5z9J8Y/3/dfJDRG2AhemIV+HzbHzeVrm/EFxhNS82gA7yPhvwDLALf06RcpoDjOALgYxRTRLP5tgp96Ttrsf2OgIk0WEIvOv7BIwD+A8CyjS1DhcP9AAAAAElFTkSuQmCC;" vertex="1" parent="1">
           <mxGeometry x="21.00048828125" y="1199.9984640066966" width="32" height="266" as="geometry" />
