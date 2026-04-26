@@ -1199,7 +1199,7 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-455" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;b&gt;Gaussian Physics Loss&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="644" y="1151.07" width="142" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-456" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;compute_pca_loss&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-456" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;font-family: sans-serif; font-size: 9px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;phys_loss · anchor-based&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="618.5" y="1169.07" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-457" value="" style="endArrow=classic;html=1;rounded=0;opacity=50;" edge="1" parent="1">
