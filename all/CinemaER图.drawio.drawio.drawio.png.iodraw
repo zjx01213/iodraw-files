@@ -1068,7 +1068,7 @@
           <mxGeometry x="-492" y="1292" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-417" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Rendered frames&lt;br&gt;I_pred (stage=fine)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="76" y="1058" width="129" height="38" as="geometry" />
+          <mxGeometry x="56" y="1042" width="149" height="54" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-418" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;GT video frames&lt;br&gt;I_gt (sorted by time)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="214" y="1058" width="129" height="38" as="geometry" />
