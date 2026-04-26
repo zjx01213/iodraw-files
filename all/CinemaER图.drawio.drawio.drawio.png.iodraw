@@ -1083,7 +1083,7 @@
           <mxGeometry x="94" y="1184" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-407" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;L_PCA = rank(Σ_attr)&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="214" y="1184" width="126" height="30" as="geometry" />
+          <mxGeometry x="231" y="1473" width="126" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
