@@ -1083,10 +1083,7 @@
           <mxGeometry x="52" y="1142" width="255" height="263" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-422" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Optical Flow Loss&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="119.5" y="1145" width="114" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IOCEjZw-S5fUMM6C0apo-438" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOCEjZw-S5fUMM6C0apo-424" target="IOCEjZw-S5fUMM6C0apo-417">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="119.5" y="1145" width="123.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-424" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;flow_loss +&amp;nbsp;flow_consistency_loss&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="74" y="1162" width="205" height="30" as="geometry" />
