@@ -940,6 +940,9 @@
         <mxCell id="IOCEjZw-S5fUMM6C0apo-322" value="HexPlane" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-231" y="1124" width="59.21" height="27.07" as="geometry" />
         </mxCell>
+        <mxCell id="IOCEjZw-S5fUMM6C0apo-323" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-334" y="1217" width="24" height="23" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
