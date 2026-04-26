@@ -1110,7 +1110,7 @@
           <mxGeometry x="81" y="1279" width="191" height="27" as="geometry" />
         </mxCell>
         <mxCell id="IOCEjZw-S5fUMM6C0apo-431" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;L_optical = λ_flow · L_flow+ λ_cons · L_cons&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="78" y="1322" width="209" height="27" as="geometry" />
+          <mxGeometry x="63" y="1323" width="209" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
